@@ -93,9 +93,8 @@ For any portfolio, the framework provides:
 
 ---
 
-## Technologies Used
+## Libraries Used
 
-* Python
 * NumPy
 * Pandas
 * Matplotlib
@@ -109,17 +108,17 @@ For any portfolio, the framework provides:
 
 * Rolling Volatility Analysis
 * Return Distribution Plots
+<img width="1593" height="690" alt="return distribution plots" src="https://github.com/user-attachments/assets/4cf56252-250c-40fc-a4ba-3d71dcad4457" />
+
 * Monte Carlo Simulation Paths
+<img width="1389" height="788" alt="mc_path simulations" src="https://github.com/user-attachments/assets/c47319d0-79de-4328-847c-f84697d74bb5" />
+
 * Future Wealth Distributions
 * Stress Testing Results
-* VaR / CVaR Comparison
+<img width="1269" height="489" alt="stress test results" src="https://github.com/user-attachments/assets/91f7f227-808d-417d-864c-f97aea37e668" />
 * GARCH Volatility Forecasts
 * Kupiec Backtesting Dashboard
 
+
 ---
 
-## Resume Highlights
-
-* Analysed risk of 4 portfolios by simulating 10K Monte Carlo paths, estimating expected value, loss probability and tail percentiles.
-* Performed historical and hypothetical stress testing using COVID crash and rate-hike scenarios to assess tail-risk sensitivity.
-* Implemented VaR/CVaR, Marginal & Component VaR, GARCH forecasting and Kupiec backtesting for portfolio risk measurement and validation.
